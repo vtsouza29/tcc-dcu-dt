@@ -13,7 +13,7 @@ A dificuldade em encontrar parceiros de jogo compatíveis é um problema recorre
 
 ## 📂 Estrutura do Repositório
 
-🔎 **Imersão**: Levantamento de informações e entendimento do problema. 
+🔎 **Imersão**: Levantamento de informações e entendimento do problema.
 🔎 **Ideação**: Levantamento de Personas e Tarefas. 
 🎨 **Prototipação**: Desenvolvimento das primeiras versões do design.  
 📝 **Avaliação**: Testes e validações da solução proposta.  
